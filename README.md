@@ -47,7 +47,7 @@ current.next = newNode;
 ## How to Run
 1. Clone the repository:
 ```
-git clone https://github.com/username/custom-phonebook.git
+git clone https://github.com/yunusemreekim/Custom-LinkedList-Phonebook.git
 ```
 2. Open the project in your IDE (IntelliJ IDEA, Eclipse, or VS Code).
 3. Run the Main.java file.
