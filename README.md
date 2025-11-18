@@ -22,9 +22,9 @@ invalid user input.
 - **Case-Insensitive Search:** Search and delete operations work 
 regardless of capitalization (e.g., "Bob" vs "bob").
 ## Project Structure
-sorted_phonebook/ \
+
 ```
-PhoneBookProject/
+sorted_phonebook/
 ├── src/
 │   ├── Main.java        # Entry point, menu loop, and Exception Handling
 │   ├── PhoneBook.java   # Core logic (add, delete, print, sort)
