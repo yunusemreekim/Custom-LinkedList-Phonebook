@@ -29,11 +29,11 @@ public class Phonebook{
     public void printDirectory(){
         Node current=head;
         System.out.println("-------PHONEBOOK-------");
-        int order=1;
+        int q=1;
         while(current!=null){
-            System.out.println("1 -> "+current.data);
+            System.out.println(q+ " -> "+current.data);
             current=current.next;
-            order++;
+            q++;
         }
     }
     public void deleteByName(String name){
